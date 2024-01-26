@@ -1,12 +1,7 @@
-‌# GitHub과 연동하기
+# Table of contents
 
-## GitBook
-
-* [Git Book 가이드](README.md)
-
-* [GitHub과 연동하기](/integration/integration-with-github.md)
-  * [PR 날리기](/integration/pull-request.md)
-
-## 효과적인 학습법
-
-* [미라클 모닝](miracle-morning.md)
+* [🟧 WEEK - 1](README.md)
+  * [🔸 1-1 HTTP의 이해](week-1/1-1-http.md)
+  * [🔸 1-2 HTTP Client / Server](week-1/1-2-http-client-server.md)
+  * [🔸 1-3 Java HTTP Server](week-1/1-3-java-http-server.md)
+  * [🔸 1-4 Spring Web MVC](week-1/1-4-spring-web-mvc.md)
