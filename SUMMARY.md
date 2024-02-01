@@ -7,3 +7,4 @@
 * [🟧 WEEK-2](week-2/README.md)
   * [🔸 2-1 REST API](week-2/2-1-rest-api.md)
   * [🔸 2-2 URI & MIME TYPE](week-2/2-2-uri-and-mime-type.md)
+  * [🔸 참고자료 - RESTful 웹 API 디자인](week-2/restful-api.md)
