@@ -8,3 +8,5 @@
   * [🔸 2-1 REST API](week-2/2-1-rest-api.md)
   * [🔸 2-2 URI & MIME TYPE](week-2/2-2-uri-and-mime-type.md)
   * [🔸 참고자료 - RESTful 웹 API 디자인](week-2/restful-api.md)
+  * [🔸 2-3 CQS](week-2/2-3-cqs.md)
+  * [🔸 2-4 애너테이션 정리](week-2/2-4.md)
