@@ -1,5 +1,15 @@
 # 🔸 1-3 HTTP Server
 
+## Java ServerSocket
+
+SeverSocket 클래스는 서버 프로그램을 구현하는데 사용된다.
+
+1. 서버는 접속 요청을 받기 위한 소켓을 연다. → Listen
+2. 클라이언트는 소켓을 만들고, 서버에 접속을 요청한다. → Connect
+3. 서버는 접속 요청을 받아서 클라이언트와 통신할 소켓을 따로 만든다. → Accept
+4. 소켓을 통해 서로 데이터를 주고 받는다. → Send & Receive ⇒ 반복!
+5. 통신을 마치면 소켓을 닫는다. → Close ⇒ 상대방은 Receive로 인지할 수 있다.
+
 ## Blocking vs nonBlocking(feat. 동기 vs 비동기)
 
 #### blocking/non-blocking <a href="#blockingnon-blocking" id="blockingnon-blocking"></a>
