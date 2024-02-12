@@ -11,3 +11,8 @@
   * [🔸 참고자료 - RESTful 웹 API 디자인](week-2/restful-api.md)
   * [🔸 2-3 CQS](week-2/2-3-cqs.md)
   * [🔸 2-4 애너테이션 정리](week-2/2-4.md)
+* [🟧 WEEK-3](week-3/README.md)
+  * [🔸 3-1 DTO](week-3/3-1-dto.md)
+  * [🔸 3-2 직렬화](week-3/3-2.md)
+  * [🔸 3-3 Jackson ObjectMapper](week-3/3-3-jackson-objectmapper.md)
+  * [🔸 3-4 CORS](week-3/3-4-cors.md)
