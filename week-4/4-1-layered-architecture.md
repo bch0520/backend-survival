@@ -110,6 +110,6 @@
 <figure><img src="../.gitbook/assets/스크린샷 2024-02-22 오후 3.10.39.png" alt=""><figcaption></figcaption></figure>
 
 4. 개인적인 생각(추가적인 질문 또는 내용)\
-
+   임의의 순서로 인코딩 돼서 효율적이지 않아, ULID(사전순 정렬), TSID(시간순 정렬) 고안됨
 5. 레퍼런스 모음\
    [https://ko.wikipedia.org/wiki/%EB%B2%94%EC%9A%A9\_%EA%B3%A0%EC%9C%A0\_%EC%8B%9D%EB%B3%84%EC%9E%90](https://ko.wikipedia.org/wiki/%EB%B2%94%EC%9A%A9\_%EA%B3%A0%EC%9C%A0\_%EC%8B%9D%EB%B3%84%EC%9E%90)
