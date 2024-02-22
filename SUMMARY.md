@@ -16,3 +16,7 @@
   * [🔸 3-2 직렬화](week-3/3-2.md)
   * [🔸 3-3 Jackson ObjectMapper](week-3/3-3-jackson-objectmapper.md)
   * [🔸 3-4 CORS](week-3/3-4-cors.md)
+* [🟧 WEEK-4](week-4/README.md)
+  * [🔸 4-1 Layered Architecture](week-4/4-1-layered-architecture.md)
+  * [🔸 4-2 Data Access](week-4/4-2-data-access.md)
+  * [🔸 4-3 Domain Model](week-4/4-3-domain-model.md)
