@@ -22,7 +22,8 @@
    인덱스를 통해 저장 데이터에 효율적으로 접근하기 위해 필요하다.
 3. 특징(장/단점)\
    1\) 인덱스값이 있기 때문에 데이터 참조가 쉽다.\
-   2\) 삭제의 과정에서 데이터의 이동이 너무 빈번하다.
+   2\) 데이터 양이 많을때 찾는데 시간이 오래 걸린다.\
+   3\) 삭제의 과정에서 데이터의 이동이 너무 빈번하다.
 
 <figure><img src="https://velog.velcdn.com/images/yyj8771/post/af62967d-40b3-4582-b8ac-d7d6682af196/image.png" alt=""><figcaption></figcaption></figure>
 
