@@ -25,3 +25,6 @@
   * [🔸 5-2 Unit Test](week-5/5-2-unit-test.md)
   * [🔸 5-3 Spring Test](week-5/5-3-spring-test.md)
   * [🔸 5-4 TDD](week-5/5-4-tdd.md)
+* [🟧 WEEK - 6](week-6/README.md)
+  * [🔸 6-1 Database](week-6/6-1-database.md)
+  * [🔸 6-2 Relational Model](week-6/6-2-relational-model.md)
