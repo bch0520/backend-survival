@@ -28,3 +28,5 @@
 * [🟧 WEEK - 6](week-6/README.md)
   * [🔸 6-1 Database](week-6/6-1-database.md)
   * [🔸 6-2 Relational Model](week-6/6-2-relational-model.md)
+  * [🔸 6-3 Relational Algerbra](week-6/6-3-relational-algerbra.md)
+  * [🔸 6-4 Entity-Relationship Model](week-6/6-4-entity-relationship-model.md)
