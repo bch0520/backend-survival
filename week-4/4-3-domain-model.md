@@ -36,4 +36,5 @@
 * 사용방법 / 사용경험
 * 개인적인 생각(추가적인 질문 또는 인사이트)
 * 레퍼런스 모음\
-  [https://dkswnkk.tistory.com/500](https://dkswnkk.tistory.com/500)
+  [https://dkswnkk.tistory.com/500](https://dkswnkk.tistory.com/500)\
+  **\***[**https://ksh-coding.tistory.com/83**](https://ksh-coding.tistory.com/83)
