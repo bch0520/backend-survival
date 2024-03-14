@@ -23,7 +23,6 @@
 
 * 레퍼런스 모음\
   [https://en.wikipedia.org/wiki/Hibernate\_(framework)](https://en.wikipedia.org/wiki/Hibernate\_\(framework\))\
-  \
 
 
 ## **데이터 모델**&#x20;
@@ -102,11 +101,11 @@
 
     8\) 대표 DBMS: DBTG, EDBS, TOTAL
 
-    \
 
 * 레퍼런스 모음\
   [https://ko.wikipedia.org/wiki/%EB%8D%B0%EC%9D%B4%ED%84%B0\_%EB%AA%A8%EB%8D%B8](https://ko.wikipedia.org/wiki/%EB%8D%B0%EC%9D%B4%ED%84%B0\_%EB%AA%A8%EB%8D%B8)\
-  [https://itwiki.kr/w/%EB%8D%B0%EC%9D%B4%ED%84%B0\_%EB%AA%A8%EB%8D%B8](https://itwiki.kr/w/%EB%8D%B0%EC%9D%B4%ED%84%B0\_%EB%AA%A8%EB%8D%B8)
+  [https://itwiki.kr/w/%EB%8D%B0%EC%9D%B4%ED%84%B0\_%EB%AA%A8%EB%8D%B8](https://itwiki.kr/w/%EB%8D%B0%EC%9D%B4%ED%84%B0\_%EB%AA%A8%EB%8D%B8)\
+
 
 ## EntityManager
 
@@ -124,7 +123,8 @@
   \
 
 * 레퍼런스 모음\
-  [https://perfectacle.github.io/2018/01/14/jpa-entity-manager-factory/](https://perfectacle.github.io/2018/01/14/jpa-entity-manager-factory/)
+  [https://perfectacle.github.io/2018/01/14/jpa-entity-manager-factory/](https://perfectacle.github.io/2018/01/14/jpa-entity-manager-factory/)\
+
 
 ## 트랜잭션
 
@@ -161,7 +161,8 @@
 
 * 레퍼런스 모음\
   [https://perfectacle.github.io/2018/01/14/jpa-entity-manager-factory/](https://perfectacle.github.io/2018/01/14/jpa-entity-manager-factory/)\
-  [http://wiki.hash.kr/index.php/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98](http://wiki.hash.kr/index.php/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98)
+  [http://wiki.hash.kr/index.php/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98](http://wiki.hash.kr/index.php/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98)\
+
 
 ## JPQL
 
@@ -193,7 +194,8 @@
 * 레퍼런스 모음\
   [https://lordofkangs.tistory.com/386](https://lordofkangs.tistory.com/386)\
   [https://sirobako.co.kr/detail/156](https://sirobako.co.kr/detail/156)\
-  [https://velog.io/@koo9b9h/JPA%EC%97%90-%EB%8C%80%ED%95%B4-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%EC%BF%BC%EB%A6%AC-%EC%96%B8%EC%96%B4JPQL-%EA%B8%B0%EB%B3%B8](https://velog.io/@koo9b9h/JPA%EC%97%90-%EB%8C%80%ED%95%B4-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%EC%BF%BC%EB%A6%AC-%EC%96%B8%EC%96%B4JPQL-%EA%B8%B0%EB%B3%B8)
+  [https://velog.io/@koo9b9h/JPA%EC%97%90-%EB%8C%80%ED%95%B4-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%EC%BF%BC%EB%A6%AC-%EC%96%B8%EC%96%B4JPQL-%EA%B8%B0%EB%B3%B8](https://velog.io/@koo9b9h/JPA%EC%97%90-%EB%8C%80%ED%95%B4-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%EC%BF%BC%EB%A6%AC-%EC%96%B8%EC%96%B4JPQL-%EA%B8%B0%EB%B3%B8)\
+
 
 ## @Entity
 
@@ -211,7 +213,8 @@
     \- 저장할 필드에 final 사용 불가\
 
 * 레퍼런스 모음\
-  [https://data-make.tistory.com/610](https://data-make.tistory.com/610)
+  [https://data-make.tistory.com/610](https://data-make.tistory.com/610)\
+
 
 ## @Table
 
@@ -229,7 +232,8 @@
 * 특징\
 
 * 레퍼런스 모음\
-  [https://data-make.tistory.com/610](https://data-make.tistory.com/610)
+  [https://data-make.tistory.com/610](https://data-make.tistory.com/610)\
+
 
 ## @Id
 
