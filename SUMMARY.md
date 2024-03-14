@@ -37,3 +37,4 @@
   * [🔸 7-2 Hibernate](week-7/7-2-hibernate.md)
   * [🔸 7-3 Embeddable](week-7/7-3-embeddable.md)
   * [🔸 7-4 Relationship Mapping](week-7/7-4-relationship-mapping.md)
+  * [🔸 7-5 Spring Data JPA](week-7/7-5-spring-data-jpa.md)
