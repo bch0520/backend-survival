@@ -31,21 +31,32 @@
 
 * 레퍼런스 모음\
   [https://sgc109.github.io/2020/08/09/ddd-aggregate/](https://sgc109.github.io/2020/08/09/ddd-aggregate/)\
-  [https://mangkyu.tistory.com/318](https://mangkyu.tistory.com/318)
+  [https://mangkyu.tistory.com/318](https://mangkyu.tistory.com/318)\
+
 
 ## N + 1 problem
 
 * 정의 \
-  연관 관계에서 발생하는 이슈로 연관 관계가 설정된 엔티티를 조회할 경우에 조회된 데이터 갯수(n) 만큼 연관관계의 조회 쿼리가 추가로 발생하여 데이터를 읽어오게 된다.
-* 왜 필요한가?\
+  연관 관계에서 발생하는 이슈로 연관 관계가 설정된 엔티티를 조회할 경우에 조회된 데이터 갯수(n) 만큼 연관관계의 조회 쿼리가 추가로 발생하여 데이터를 읽어오게 된다.\
 
-* 특징\
+* 왜 N+1 문제가 발생하나?\
+  jpaRepository에 정의한 인터페이스 메서드를 실행하면 JPA는 메서드 이름을 분석해서 JPQL을 생성하여 실행하게 된다. JPQL은 SQL을 추상화한 객체지향 쿼리 언어로서 특정 SQL에 종속되지 않고 엔티티 객체와 필드 이름을 가지고 쿼리를 한다. 그렇기 때문에 JPQL은 findAll()이란 메소드를 수행하였을 때 해당 엔티티를 조회하는 `select * from Owner` 쿼리만 실행하게 되는것이다. JPQL 입장에서는 연관관계 데이터를 무시하고 해당 엔티티 기준으로 쿼리를 조회하기 때문이다. 그렇기 때문에 연관된 엔티티 데이터가 필요한 경우, FetchType으로 지정한 시점에 조회를 별도로 호출하게 된다.\
 
-* 사용예시\
+*   해결방법
 
+    #### Fetch join <a href="#fetch-join" id="fetch-join"></a>
+
+    사실 우리가 원하는 코드는 `select * from owner left join cat on cat.owner_id = owner.id` 일 것이다. 최적화된 쿼리를 우리가 직접 사용할 수 있다. Fetch join을 사용하는 것이다. 하지만 이는 jpaRepository에서 제공해주는 것은 아니고 JPQL로 작성해야 한다.
+
+    ```
+    @Query("select o from Owner o join fetch o.cats")
+    List<Owner> findAllJoinFetch();
+
+    ```
 * 개인적인 생각(추가적인 질문 또는 내용)\
 
-* 레퍼런스 모음
+* 레퍼런스 모음\
+  [https://incheol-jung.gitbook.io/docs/q-and-a/spring/n+1](https://incheol-jung.gitbook.io/docs/q-and-a/spring/n+1)
 
 ## CascadeType.ALL
 
@@ -80,7 +91,8 @@
 * 개인적인 생각(추가적인 질문 또는 내용)\
 
 * 레퍼런스 모음\
-  [https://dev-elop.tistory.com/entry/JPA-orphanRemoval-%EC%9A%A9%EB%8F%84](https://dev-elop.tistory.com/entry/JPA-orphanRemoval-%EC%9A%A9%EB%8F%84)
+  [https://dev-elop.tistory.com/entry/JPA-orphanRemoval-%EC%9A%A9%EB%8F%84](https://dev-elop.tistory.com/entry/JPA-orphanRemoval-%EC%9A%A9%EB%8F%84)\
+
 
 ## Event Sourcing
 
