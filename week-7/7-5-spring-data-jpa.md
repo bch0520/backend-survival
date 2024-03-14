@@ -1,11 +1,71 @@
 # 🔸 7-5 Spring Data JPA
 
-Spring Data JPA\
-\
-Dao 와 Repository 차이
+## Spring Data JPA
 
-JPA Repository와 DDD의 Repository
+* 정의 \
 
-Spring AOP
+* 왜 필요한가?\
 
-@Transactional
+* 특징\
+
+* 사용예시\
+
+* 개인적인 생각(추가적인 질문 또는 내용)\
+
+* 레퍼런스 모음
+
+## Dao 와 Repository 차이
+
+* 정의 \
+
+* 왜 필요한가?\
+
+* 특징\
+
+* 사용예시\
+
+* 개인적인 생각(추가적인 질문 또는 내용)\
+
+* 레퍼런스 모음
+
+## JPA Repository와 DDD의 Repository
+
+* 정의 \
+
+* 왜 필요한가?\
+
+* 특징\
+
+* 사용예시\
+
+* 개인적인 생각(추가적인 질문 또는 내용)\
+
+* 레퍼런스 모음
+
+## Spring AOP
+
+* 정의 \
+
+* 왜 필요한가?\
+
+* 특징\
+
+* 사용예시\
+
+* 개인적인 생각(추가적인 질문 또는 내용)\
+
+* 레퍼런스 모음
+
+## @Transactional
+
+* 정의 \
+
+* 왜 필요한가?\
+
+* 특징\
+
+* 사용예시\
+
+* 개인적인 생각(추가적인 질문 또는 내용)\
+
+* 레퍼런스 모음
