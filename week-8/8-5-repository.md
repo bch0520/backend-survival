@@ -33,9 +33,9 @@
      * UI Layer는 사용자와 소프트웨어 간의 상호 작용을 담당하는 계층이다.
      * 사용자 인터페이스(UI)를 구현하고 사용자와의 상호 작용을 처리한다. 이는 주로 화면에 데이터를 표시하고 사용자의 입력을 받아들이는 등의 작업을 포함한다.
      * 주요 책임에는 사용자 인터페이스(UI)의 디자인과 구현, 사용자 입력의 수신 및 처리, 화면 표시 등이 포함된다.
-     * UI Layer는 사용자의 요청을 Application Layer로 전달하고, Application Layer에서 처리된 결과를 사용자에게 표시한다.\
+     * UI Layer는 사용자의 요청을 Application Layer로 전달하고, Application Layer에서 처리된 결과를 사용자에게 표시한다.
 
-* 개인적인 생각(추가적인 질문 또는 내용)\
+<figure><img src="https://wikibook.co.kr/images/readit/20141002/figure4.png" alt="" width="375"><figcaption></figcaption></figure>
 
 * 레퍼런스 모음\
   chat GPT
