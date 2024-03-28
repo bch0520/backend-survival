@@ -44,3 +44,8 @@
   * [🔸 8-3 Entity, Value Object](week-8/8-3-entity-value-object.md)
   * [🔸 8-4 Aggregate](week-8/8-4-aggregate.md)
   * [🔸 8-5 Repository](week-8/8-5-repository.md)
+* [🟧 WEEK-9](week-9/README.md)
+  * [🔸 9-1 SOLID](week-9/9-1-solid.md)
+  * [🔸 9-2 Hexagonal Architecture](week-9/9-2-hexagonal-architecture.md)
+  * [🔸 9-3 조영호님 "우아한 객체 지향 세미나"](week-9/9-3.md)
+  * [🔸 9-4 도메인 주도 설계 핵심 - 반 버논](week-9/9-4.md)
