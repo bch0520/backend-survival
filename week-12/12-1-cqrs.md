@@ -7,10 +7,6 @@
 
 * 왜 필요한가?\
   객체는 시간에 따라 변하는 상태를 갖는다.  하지만 상태가 언제 바뀔지 예측하기 힘들다면 프로그램을 사용하기 힘들어진다. 때문에 우리는 상태를 변경하지 않고 상태를 알 수 있게 해야하는데, 여기서 나온 개념이 메서드를 분리(Commend, Query분리)하는 것이다. \
-
-* 특징\
-
-* 사용예시\
   &#x20;
 * 레퍼런스 모음\
   [https://class.megaptera.kr/courses/backend-survival/lectures/12/textbook?programId=backend-10](https://class.megaptera.kr/courses/backend-survival/lectures/12/textbook?programId=backend-10)
