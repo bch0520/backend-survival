@@ -63,8 +63,6 @@
   *   **고도의 기능성**
 
       NoSQL 데이터베이스는 데이터 저장 수요가 엄청나게 큰 분산형 데이터 저장소를 위해 설계되었다. 이와 같은 특성 덕분에 NoSQL은 빅 데이터, 실시간 웹 앱, 360도 고객 정보, 온라인 쇼핑, 온라인 게이밍, 사물인터넷, 소셜 네트워크, 온라인 광고 애플리케이션 등을 처리하기에 이상적인 데이터베이스 옵션이다.\
-
-* 사용예시\
-  &#x20;
+      &#x20;
 * 레퍼런스 모음\
   [https://www.oracle.com/kr/database/nosql/what-is-nosql/](https://www.oracle.com/kr/database/nosql/what-is-nosql/)
