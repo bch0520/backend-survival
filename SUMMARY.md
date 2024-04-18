@@ -55,3 +55,6 @@
   * [🔸 10-3 JWT & Autority](week-10/10-3-and.md)
 * [🟧 WEEK-11](week-11/README.md)
   * [🔸 11-1 File Upload](week-11/11-1-file-upload.md)
+* [🟧 WEEK-12](week-12/README.md)
+  * [🔸 12-1 CQRS](week-12/12-1-cqrs.md)
+  * [🔸 12-2 Redis](week-12/12-2-redis.md)
