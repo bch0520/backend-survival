@@ -1,6 +1,7 @@
 # Table of contents
 
-* [🟧 WEEK-1](README.md)
+* [📘 보충이 필요한 개념 정리](README.md)
+* [🟧 WEEK-1](<README (1).md>)
   * [🔸 1-1 HTTP의 이해](week-1/1-1-http.md)
   * [🔸 1-2 HTTP Client](week-1/1-2-http-client.md)
   * [🔸 1-3 HTTP Server](week-1/1-3-http-server.md)
