@@ -59,3 +59,5 @@
 * [🟧 WEEK-12](week-12/README.md)
   * [🔸 12-1 CQRS](week-12/12-1-cqrs.md)
   * [🔸 12-2 Redis](week-12/12-2-redis.md)
+* [🟧 WEEK-13](week-13/README.md)
+  * [🔸 보충 학습](week-13/undefined.md)
