@@ -61,3 +61,5 @@
   * [🔸 12-2 Redis](week-12/12-2-redis.md)
 * [🟧 WEEK-13](week-13/README.md)
   * [🔸 보충 학습](week-13/undefined.md)
+* [🟧 WEEK-14](week-14/README.md)
+  * [🔸 보충학습](week-14/undefined.md)
